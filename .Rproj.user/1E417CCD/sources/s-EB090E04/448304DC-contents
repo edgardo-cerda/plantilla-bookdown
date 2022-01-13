@@ -1,0 +1,33 @@
+--- 
+title: "Plantilla Bookdown"
+subtitle: "acá pondría un subtitulo. Si tan solo tuviera uno!"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: ["bib/book.bib"]
+csl: "bib/apa-no-ampersand.csl"
+biblio-style: apalike
+link-citations: yes
+linkcolor: blue
+geometry: "left=4cm, right=3cm, top=2.5cm, bottom=2.5cm"
+fontsize: 12pt
+linestretch: 1.5
+toc-depth: 1
+lof: True
+lot: True
+author: "Edgardo Cerda"
+description: "Plantilla bookdown, pero también para hacer pruebas de cosas nuevas"
+og:image: "imagenes/prueba.png"
+github-repo: "https://github.com/edgardo-cerda/plantilla-bookdown"
+# url: 'https://radiografia-cambio-social-2016-2021.netlify.app/'
+always_allow_html: true
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+
+# Introducción 
+
+<div style="text-align: justify">
+
+Acá vendría el texto mismo
