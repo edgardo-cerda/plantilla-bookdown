@@ -18,7 +18,7 @@ author: "Edgardo Cerda"
 description: "Plantilla bookdown, pero también para hacer pruebas de cosas nuevas"
 og:image: "imagenes/prueba.png"
 github-repo: "https://github.com/edgardo-cerda/plantilla-bookdown"
-# url: 'https://radiografia-cambio-social-2016-2021.netlify.app/'
+url: 'https://edgardo-cerda.github.io/plantilla-bookdown/'
 always_allow_html: true
 editor_options: 
   markdown: 
